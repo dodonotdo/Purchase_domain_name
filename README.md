@@ -13,6 +13,7 @@
   ![image](https://user-images.githubusercontent.com/91359308/169814468-5b14bd4e-4f2e-462e-bbb1-a3c4ecc87704.png)
   
   - go to the manage name of specified domain name
+  - click add records, create the new sub domain
   - go to manage freenom DNS
   
   ![image](https://user-images.githubusercontent.com/91359308/169816590-ab71f8c8-d658-4db4-bce5-9e3eb5306030.png)
