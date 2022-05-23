@@ -39,6 +39,7 @@ Enter into the zerossl values in freenom
 ![image](https://user-images.githubusercontent.com/91359308/169817989-09f9e9bf-3390-444c-834b-ec4c4879c49f.png)
 
 8. verify the terminal - host zerosslname
+
   ex: host _FA2587ECA58093DE1EFB15E171B70786.fourtime.ml
   
 9. go to next step to verify the zerossl 
