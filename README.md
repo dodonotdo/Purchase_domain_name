@@ -42,4 +42,5 @@ Enter into the zerossl values in freenom
 
   ex: host _FA2587ECA58093DE1EFB15E171B70786.fourtime.ml
   
-9. go to next step to verify the zerossl 
+9. go to next step to verify the domain in zerossl 
+10. Download the ssl certificate
