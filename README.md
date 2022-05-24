@@ -1,5 +1,11 @@
 ## How to Purchase_domain_name
 
+  **_freenom.com_** - _Domain name creation website_
+
+  **_zerossl.com_** - _ssl certificate creation website_
+  
+  ---
+
 **1. Create the domain name:** 
   - Go to this freenom website - https://my.freenom.com/domains.php
   - sign in the freenom
